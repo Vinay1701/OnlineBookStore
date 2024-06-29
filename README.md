@@ -101,7 +101,7 @@ insert into books values('9780132778046','Effective Java','Joshua Bloch',368,21)
 insert into books values('9781484255995','Practical Rust Projects','Shing Lyu',257,15);
 insert into users values('demo','demo','Demo','User','Demo Home','42502216225','demo@gmail.com',2);
 insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
+insert into users values('vinay','vinay','vinay','1236547089','vinaykumarkumarpatha1701@gmail.com',2);
 
 commit;
 
@@ -111,7 +111,7 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: `https://github.com/shashirajraja/onlinebookstore.git`> Select master Branch > Next > Next > Finish.
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: `https://github.com/Vinay1701/onlinebookstore.git`> Select master Branch > Next > Next > Finish.
 
 Step 2. a: Go inside `src/main/resources > application.properties` and update the value of database details as per your usage, like db.driver, db.host, db.username and db.password according to your installed mysql/postgresql admin user credentials.
 
@@ -129,7 +129,7 @@ Step 6: Check Running The Site At <a href="http://localhost:8083/onlinebookstore
 
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
 
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
+Step 8: The default Username And Password For User Is "Vinay"
 
 ## FAQ
 
@@ -153,4 +153,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
 Project Leader<br/>
-<b>Shashi Raj</b>
+<b>Vinay Kumar</b>
